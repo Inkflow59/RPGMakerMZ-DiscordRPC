@@ -1,0 +1,8 @@
+pypresence
+PyGetWindow
+pywin32
+pystray
+pillow
+pyinstaller
+requests
+packaging
