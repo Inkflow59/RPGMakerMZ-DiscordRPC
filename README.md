@@ -72,10 +72,6 @@ Contributions are welcome! Feel free to:
 4. Push to your branch
 5. Open a Pull Request
 
-## 📜 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## 💌 Contact
 
 - GitHub: [@Inkflow59](https://github.com/Inkflow59)
